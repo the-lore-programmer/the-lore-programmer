@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the-lore-programmer
 - 👀 I’m interested in Python Programming, Ethical Hacking and Web Development 
 - 🌱 I’m currently learning Python For Beginners, Ethical Hacking For Beginners, HTML, CSS, PHP & Javascript For Beginners.
-- 💞️ I’m looking to collaborate on many projects as I learn more information.
+- 💞️ I’m looking to collaborate on many projects as I learn more.
 - 📫 Hit me up on twitter @1hacker_dev or send an email to sirasante@protonmail.com 
 
 <!---
